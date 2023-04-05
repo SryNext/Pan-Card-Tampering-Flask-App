@@ -1,7 +1,8 @@
 # Detect Tampering of PAN Card using Computer Vision
 
-This project is aimed at using computer vision techniques to detect tampering of PAN cards, which is a prevalent issue in India. The system uses image processing and analysis techniques to identify any modifications made to the PAN card, including changes to the text, image, or background.
+This project is aimed at using computer vision techniques to detect tampering of PAN cards, which is a prevalent issue in the World. The system uses image processing and analysis techniques to identify any modifications made to the PAN card, including changes to the text, image, or background.
 
+I included some Sample ID Images for testing.
 ## Prerequisites
 
 * Python 3.6 or higher
